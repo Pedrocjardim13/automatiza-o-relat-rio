@@ -41,7 +41,7 @@ pyautogui.click(x=169, y=314)
 time.sleep(1)
 
 #preenchendo o e-mail
-pyautogui.write("pedro-cjardim@hotmail.com")
+pyautogui.write("seu-email")
 pyautogui.press("enter")
 pyautogui.press("Tab")
 
